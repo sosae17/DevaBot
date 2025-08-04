@@ -1,0 +1,40 @@
+services:
+  - type: cron
+    name: mensaje-1-elias
+    schedule: "03 15 * * 0"  # Domingo 21:11
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-2-marco
+    schedule: "30 19 * * 2"  # Martes 19:30
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-3-gabriel
+    schedule: "30 12 * * 3"  # Miércoles 12:30
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-4-marcelo
+    schedule: "30 19 * * 3"  # Miércoles 19:30
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-5-jose
+    schedule: "30 12 * * 4"  # Jueves 12:30
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-6-rodolfo
+    schedule: "30 12 * * 5"  # Viernes 12:30
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-7-carlos
+    schedule: "30 12 * * 6"  # Sábado 12:30
+    command: "python deva.py"
+
+  - type: cron
+    name: mensaje-8-rafael
+    schedule: "30 12 * * 0"  # Domingo 12:30
+    command: "python deva.py"
