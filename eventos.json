@@ -1,17 +1,18 @@
+
 [
     {
-        "nombre": "Elías Sosa A.",
+        "nombre": "Elías",
         "numero": "whatsapp:+5493865435934",
         "mensaje": "!Hola! ¿Se completó el territorio de esta mañana?",
-        "dias": ["monday"],
-        "hora": "16:30"
+        "dias": ["sunday"],
+        "hora": "21:11"
     },
     {
         "nombre": "Marco",
         "numero": "whatsapp:+5493865435934",
         "mensaje": "!Hola! ¿Se completó el territorio de esta tarde?",
-        "dias": ["monday"],
-        "hora": "19:09"
+        "dias": ["tuesday"],
+        "hora": "19:30"
     },
     {
         "nombre": "Gabriel",
@@ -55,5 +56,4 @@
         "dias": ["sunday"],
         "hora": "12:30"
     }
-
 ]
